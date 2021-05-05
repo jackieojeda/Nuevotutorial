@@ -1,6 +1,6 @@
 import cv2
 
-amigo = 758
+amigo = 100
 def calculadoraMas(ar):
     resul = 0
     resul += ar
