@@ -8,3 +8,4 @@ def calculadoraMas(ar):
 
 cholo = amigo * calculadoraMas(amigo)
 print(cholo)
+print("Hola compañeros!")
